@@ -1,5 +1,25 @@
 {
   "current": {
+    "color_announcement_bg": "#a1e91e",
+    "color_announcement_text": "#212529",
+    "color_primary": "#a1e91e",
+    "color_button_text": "#212529",
+    "color_input": "#a1e91e",
+    "color_drawer_bg": "#a1e91e",
+    "color_drawer_default": "#71ae02",
+    "color_drawer_border": "#212529",
+    "color_drawer_primary": "#a1e91e",
+    "color_drawer_button_text": "#212529",
+    "color_drawer_input": "#a1e91e",
+    "color_footer_bg": "#a1e91e",
+    "color_footer_default": "#71ae02",
+    "color_footer_border": "#212529",
+    "color_footer_text": "#212529",
+    "color_footer_primary": "#a1e91e",
+    "color_footer_button_text": "#212529",
+    "color_footer_input": "#a1e91e",
+    "color_overlay": "#a1e91e",
+    "color_transparent_nav_text": "#212529",
     "dbtfy_announcement_bar": true,
     "dbtfy_breadcrumbs": false,
     "dbtfy_cart_bubble": false,
@@ -243,22 +263,11 @@
               "subtitle": "",
               "footer_link_list": "footer"
             }
-          },
-          "footer-2": {
-            "type": "newsletter",
-            "settings": {
-              "title": "",
-              "column_width": 2,
-              "heading_text": "Subscribe to our newsletter",
-              "subtitle": "A short sentence describing what someone will receive by subscribing",
-              "customer_tag": "newsletter"
-            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-1"
         ],
         "settings": {
           "show_social_media": true,
