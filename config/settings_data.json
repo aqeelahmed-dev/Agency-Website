@@ -1,3 +1,276 @@
 {
+  "current": {
+    "dbtfy_announcement_bar": true,
+    "dbtfy_breadcrumbs": false,
+    "dbtfy_cart_bubble": false,
+    "sections": {
+      "dbtfy-account-settings": {
+        "type": "dbtfy-account-settings",
+        "settings": {
+        }
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "settings": {
+          "dbtfy_bullet_points_position": "under-product-price",
+          "dbtfy_bullet_points_alignment": "left",
+          "dbtfy_bullet_points_display_type": "inline"
+        }
+      },
+      "dbtfy-cart-goal": {
+        "type": "dbtfy-cart-goal",
+        "settings": {
+          "dbtfy_cart_goal_before_text": "You're",
+          "dbtfy_cart_goal_amount": "70",
+          "dbtfy_cart_goal_after_text": "away from FREE shipping!",
+          "dbtfy_cart_goal_reached_text": "You are eligible for FREE shipping!",
+          "dbtfy_cart_goal_icons": "local_shipping"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {
+        }
+      },
+      "dbtfy-customizable-products": {
+        "type": "dbtfy-customizable-products",
+        "settings": {
+        }
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-product-tabs": {
+        "type": "dbtfy-product-tabs",
+        "settings": {
+          "dbtfy_product_tabs_display_type": "vertical",
+          "dbtfy_product_tab_heading_color": "headings",
+          "dbtfy_product_tab_text_color": "text",
+          "dbtfy_product_tab_background_color": "accent_background"
+        }
+      },
+      "dbtfy-product-swatches": {
+        "type": "dbtfy-product-swatches",
+        "settings": {
+          "dbtfy_product_swatches_show_in_grid": true
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "settings": {
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "No thanks",
+          "dbtfy_upsell_popup_checkout": "Go to checkout →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": true,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "hide_menu_icon": true,
+          "title": "Menu",
+          "drawer_top_link_list": "main-menu",
+          "drawer_bottom_link_list": "footer"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "title": "",
+              "announcement_text": "<p>Free shipping worldwide | 30-Day free returns<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "small_announcement_text": false,
+          "show_social": true,
+          "email": true,
+          "phone": true,
+          "left_message": "<p>Follow us!<\/p>",
+          "right_message": "<p>Get in touch with us<\/p>",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "center",
+          "logo_link": true,
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 200,
+          "logo_mobile_width": 100
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": true,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Our Guarantee",
+              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-1": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Our Guarantee",
+              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Our Guarantee",
+              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-1",
+          "guarantee-2"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "xl",
+          "section_style": "section-border"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "column_width": 2,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "heading_text": "About Us",
+              "subtitle": "",
+              "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+              "email": true,
+              "phone": true,
+              "show_social_media": false
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "title": "",
+              "column_width": 1,
+              "heading_text": "Quick Links",
+              "subtitle": "",
+              "footer_link_list": "footer"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "",
+              "column_width": 2,
+              "heading_text": "Subscribe to our newsletter",
+              "subtitle": "A short sentence describing what someone will receive by subscribing",
+              "customer_tag": "newsletter"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "footer-2"
+        ],
+        "settings": {
+          "show_social_media": true,
+          "social_media_position_desktop": "right",
+          "social_title": "Follow-us on social media!",
+          "show_payment_icons": true,
+          "custom_credential": ""
+        }
+      }
+    },
+    "content_for_index": [
 
+    ]
+  }
 }
