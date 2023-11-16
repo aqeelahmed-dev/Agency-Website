@@ -1,17 +1,50 @@
 {
   "sections": {
-    "1d0bb279-0557-4faf-9a5d-27a9ac55062c": {
-      "type": "featured-image",
+    "77e8f714-8d7e-4899-bfa5-9cca22780dcb": {
+      "type": "hero",
+      "blocks": {
+        "87485f36-ed4e-48d9-bb98-f74c45be76ed": {
+          "type": "slide",
+          "settings": {
+            "title": "",
+            "overlay": false,
+            "image_position": "center center",
+            "image_position_mobile": "center center",
+            "slide_link": "",
+            "video": "",
+            "heading_text": "",
+            "text": "",
+            "text_position": "align-center",
+            "text_position_mobile": "align-center",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center",
+            "enable_custom_fonts": false,
+            "slideshow_family": "poppins_n4",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "87485f36-ed4e-48d9-bb98-f74c45be76ed"
+      ],
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "full_width": true,
-        "section_style": "section-blank",
-        "image_link": ""
+        "section_height": "xlarge",
+        "section_height_mobile": "xlarge",
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 8
       }
     }
   },
   "order": [
-    "1d0bb279-0557-4faf-9a5d-27a9ac55062c"
+    "77e8f714-8d7e-4899-bfa5-9cca22780dcb"
   ]
 }
