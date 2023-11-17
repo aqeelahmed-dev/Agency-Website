@@ -38,7 +38,7 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "section_height": "xlarge",
-        "section_height_mobile": "xsmall",
+        "section_height_mobile": "large",
         "arrows": false,
         "dots": false,
         "autoplay": false,
