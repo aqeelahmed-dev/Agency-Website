@@ -52,6 +52,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Social_Media_Management_Marketing.svg",
         "image_link": "",
         "section_style": "section-blank",
         "text_size": "large",
