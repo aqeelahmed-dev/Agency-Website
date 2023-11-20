@@ -46,11 +46,29 @@
         "section_style": "section-default",
         "image_link": ""
       }
+    },
+    "e46df741-947e-403c-959b-90aa9c7a465e": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Social Media Management & Marketing​",
+        "text": "<p>We can help you grow your business with expert social media management and marketing. We have a team of dedicated professionals with years of experience in helping businesses achieve their desired results on social media. From creating and executing a social media strategy to managing your accounts on a day-to-day basis.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "LEARN MORE",
+        "button_link": "#"
+      }
     }
   },
   "order": [
     "5dd7a4ab-a138-43f3-a8d8-c9bee5726c9d",
     "a29ab813-5c5b-42df-afd3-9dc5ec33bf0d",
-    "b26f7cc8-1e8c-48f6-990f-5de3826fe954"
+    "b26f7cc8-1e8c-48f6-990f-5de3826fe954",
+    "e46df741-947e-403c-959b-90aa9c7a465e"
   ]
 }
