@@ -34,10 +34,13 @@
     },
     "e46df741-947e-403c-959b-90aa9c7a465e": {
       "type": "featured-row",
+      "custom_css": [
+        ".featured-row-section {background-color: #ffffff;}"
+      ],
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "image": "shopify:\/\/shop_images\/Social_Media_Management_Marketing.svg",
+        "image": "shopify:\/\/shop_images\/Social_Media_Management_Marketing_0abaeb58-c1ac-482d-9652-a8d80de8ce2b.svg",
         "image_link": "",
         "section_style": "section-border",
         "text_size": "large",
