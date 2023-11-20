@@ -2,6 +2,7 @@
   "current": {
     "hero_header_desktop": false,
     "hero_header_mobile": false,
+    "collection_grid_button_size": "",
     "section_height": "large",
     "section_height_mobile": "large",
     "page_wrapper": "1400",
