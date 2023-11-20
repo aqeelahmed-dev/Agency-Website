@@ -24,7 +24,7 @@
     "color_footer_input": "#a1e91e",
     "color_overlay": "#a1e91e",
     "color_transparent_nav_text": "#212529",
-    "dbtfy_announcement_bar": true,
+    "dbtfy_announcement_bar": false,
     "dbtfy_breadcrumbs": false,
     "dbtfy_cart_bubble": false,
     "sections": {
