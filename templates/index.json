@@ -6,7 +6,7 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "image_link": "",
-        "section_style": "section-blank",
+        "section_style": "section-default",
         "text_size": "large",
         "image_alignement": "right",
         "text_alignment": "",
