@@ -2,6 +2,9 @@
   "sections": {
     "5dd7a4ab-a138-43f3-a8d8-c9bee5726c9d": {
       "type": "featured-row",
+      "custom_css": [
+        ".featured-row-section {background-color: #A1E91E;}"
+      ],
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
