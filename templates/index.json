@@ -1,52 +1,24 @@
 {
   "sections": {
-    "77e8f714-8d7e-4899-bfa5-9cca22780dcb": {
-      "type": "hero",
-      "blocks": {
-        "87485f36-ed4e-48d9-bb98-f74c45be76ed": {
-          "type": "slide",
-          "settings": {
-            "title": "",
-            "overlay": false,
-            "image": "shopify:\/\/shop_images\/ElitEcom.svg",
-            "image_mobile": "shopify:\/\/shop_images\/ElitEcom_Mobile.svg",
-            "image_position": "center center",
-            "image_position_mobile": "center center",
-            "slide_link": "",
-            "video": "",
-            "heading_text": "",
-            "text": "",
-            "text_position": "align-center",
-            "text_position_mobile": "align-center",
-            "text_alignment": "text-center",
-            "text_alignment_mobile": "text-center",
-            "enable_custom_fonts": false,
-            "slideshow_family": "poppins_n4",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "btn--primary",
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_2": ""
-          }
-        }
-      },
-      "block_order": [
-        "87485f36-ed4e-48d9-bb98-f74c45be76ed"
-      ],
+    "5dd7a4ab-a138-43f3-a8d8-c9bee5726c9d": {
+      "type": "featured-row",
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "section_height": "xlarge",
-        "section_height_mobile": "large",
-        "arrows": false,
-        "dots": false,
-        "autoplay": false,
-        "autoplayspeed": 8
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "text-center",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
       }
     }
   },
   "order": [
-    "77e8f714-8d7e-4899-bfa5-9cca22780dcb"
+    "5dd7a4ab-a138-43f3-a8d8-c9bee5726c9d"
   ]
 }
