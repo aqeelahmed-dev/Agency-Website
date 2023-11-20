@@ -39,7 +39,7 @@
         "show_on_mobile": true,
         "image": "shopify:\/\/shop_images\/Social_Media_Management_Marketing.svg",
         "image_link": "",
-        "section_style": "section-blank",
+        "section_style": "section-border",
         "text_size": "large",
         "image_alignement": "left",
         "text_alignment": "",
