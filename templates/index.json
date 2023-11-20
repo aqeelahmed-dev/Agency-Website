@@ -9,12 +9,12 @@
         "section_style": "section-blank",
         "text_size": "large",
         "image_alignement": "right",
-        "text_alignment": "text-center",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "text_alignment": "",
+        "title": "For a more profitable entrepreneurship experience.",
+        "text": "<p>Product Hunting, Web Development, SEO, Social Media Marketing & Converison Rate Optimization Services. <\/p>",
         "button_style": "btn--primary",
-        "button_label": "",
-        "button_link": ""
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/contact"
       }
     }
   },
