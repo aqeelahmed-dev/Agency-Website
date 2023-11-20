@@ -5,8 +5,9 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Digital_Agency.svg",
         "image_link": "",
-        "section_style": "section-default",
+        "section_style": "section-blank",
         "text_size": "large",
         "image_alignement": "right",
         "text_alignment": "",
