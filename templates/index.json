@@ -181,6 +181,15 @@
             "link": "",
             "targe_blank": false
           }
+        },
+        "9c51e411-bbd5-4a03-8c5f-6aece229d93f": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/rfak.png",
+            "link": "",
+            "targe_blank": false
+          }
         }
       },
       "block_order": [
@@ -190,7 +199,8 @@
         "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-4",
         "9babb926-a311-461c-aed5-beffaa2ff242",
         "7cf81ff5-b86e-4471-a07c-e861f8ab66c2",
-        "6510c3e6-4098-4214-a323-a76b49870096"
+        "6510c3e6-4098-4214-a323-a76b49870096",
+        "9c51e411-bbd5-4a03-8c5f-6aece229d93f"
       ],
       "settings": {
         "show_on_desktop": true,
