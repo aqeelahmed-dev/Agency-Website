@@ -115,6 +115,96 @@
         "button_label": "LEARN MORE",
         "button_link": "#"
       }
+    },
+    "c5549717-1c2b-4a34-b5bf-40b27b089d33": {
+      "type": "logo-list",
+      "blocks": {
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-1": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/economylogo.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-2": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/zaitoonlogo.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-3": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/eln-logo.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-4": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/elion.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "9babb926-a311-461c-aed5-beffaa2ff242": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/colabs.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "7cf81ff5-b86e-4471-a07c-e861f8ab66c2": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/prosentry-logo.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "6510c3e6-4098-4214-a323-a76b49870096": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/menras.png",
+            "link": "",
+            "targe_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-1",
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-2",
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-3",
+        "template--21648909599023__c5549717-1c2b-4a34-b5bf-40b27b089d33-logo-4",
+        "9babb926-a311-461c-aed5-beffaa2ff242",
+        "7cf81ff5-b86e-4471-a07c-e861f8ab66c2",
+        "6510c3e6-4098-4214-a323-a76b49870096"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "OUR CLIENTS",
+        "section_style": "section-blank",
+        "image_gray": false,
+        "image_height": 50,
+        "slider_logo_list": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 3
+      }
     }
   },
   "order": [
@@ -123,6 +213,7 @@
     "e46df741-947e-403c-959b-90aa9c7a465e",
     "027f5198-a86a-402d-b389-323b8e867c33",
     "dc7818d7-0244-4904-9303-3a4353adb9f6",
-    "50da4805-c4ec-4b48-a786-908f8af0edbb"
+    "50da4805-c4ec-4b48-a786-908f8af0edbb",
+    "c5549717-1c2b-4a34-b5bf-40b27b089d33"
   ]
 }
