@@ -94,6 +94,27 @@
         "button_label": "LEARN MORE",
         "button_link": "#"
       }
+    },
+    "50da4805-c4ec-4b48-a786-908f8af0edbb": {
+      "type": "featured-row",
+      "custom_css": [
+        ".featured-row-section {background-color: #a1e91e;}"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Web_Development_Services_5925ddd1-d91c-4475-acce-a7c1a11f5b82.svg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Web Development Services",
+        "text": "<p>We are a web development company that provides comprehensive web development services. We have a team of experienced developers that can help you with anything from creating a basic website to developing a custom eCommerce solution.<\/p><p>We work with clients from all industries, so no matter what your business is, we have the experience and expertise to help you succeed online. Ready to get started? <\/p>",
+        "button_style": "btn--primary",
+        "button_label": "LEARN MORE",
+        "button_link": "#"
+      }
     }
   },
   "order": [
@@ -101,6 +122,7 @@
     "b26f7cc8-1e8c-48f6-990f-5de3826fe954",
     "e46df741-947e-403c-959b-90aa9c7a465e",
     "027f5198-a86a-402d-b389-323b8e867c33",
-    "dc7818d7-0244-4904-9303-3a4353adb9f6"
+    "dc7818d7-0244-4904-9303-3a4353adb9f6",
+    "50da4805-c4ec-4b48-a786-908f8af0edbb"
   ]
 }
