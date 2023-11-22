@@ -289,14 +289,13 @@
     },
     "4ba8c35c-a7a4-4516-96e0-f70bc1d97f8b": {
       "type": "featured-blog",
-      "disabled": true,
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
         "title": "BLOG",
         "subtitle": "Powerful Resources",
         "section_style": "section-blank",
-        "blog": "do-you-wish-to-learn",
+        "blog": "news",
         "rows": "1",
         "grid": "3",
         "show_view_all": true,
