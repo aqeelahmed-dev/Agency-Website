@@ -223,7 +223,7 @@
         "show_on_mobile": true,
         "title": "Subscribe to our newsletter",
         "subtitle": "Subscribe to our newsletter and Get Updates about us & Market.",
-        "section_style": "section-blank",
+        "section_style": "section-default",
         "customer_tag": "newsletter"
       }
     },
