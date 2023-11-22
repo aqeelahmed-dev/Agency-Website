@@ -286,6 +286,21 @@
         "autoplay": true,
         "autoplayspeed": 5
       }
+    },
+    "4ba8c35c-a7a4-4516-96e0-f70bc1d97f8b": {
+      "type": "featured-blog",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Featured blog",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "blog": "news",
+        "rows": "1",
+        "grid": "1",
+        "show_view_all": false,
+        "button_style": "btn-outline-primary"
+      }
     }
   },
   "order": [
@@ -297,6 +312,7 @@
     "50da4805-c4ec-4b48-a786-908f8af0edbb",
     "c5549717-1c2b-4a34-b5bf-40b27b089d33",
     "2abfa3b1-7867-4aff-8b29-3a84148e02be",
-    "d229dcaf-e0d4-4361-95e9-85662c6c821d"
+    "d229dcaf-e0d4-4361-95e9-85662c6c821d",
+    "4ba8c35c-a7a4-4516-96e0-f70bc1d97f8b"
   ]
 }
