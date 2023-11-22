@@ -4,6 +4,8 @@
     "hero_header_mobile": false,
     "icon": "material-icons-sharp",
     "collection_grid_button_size": "",
+    "show_author": false,
+    "show_tags": false,
     "newsletter_name": false,
     "newsletter_optin": false,
     "section_height": "large",
