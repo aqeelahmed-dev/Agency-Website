@@ -292,8 +292,8 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Featured blog",
-        "subtitle": "",
+        "title": "BLOG",
+        "subtitle": "Powerful Resources",
         "section_style": "section-blank",
         "blog": "news",
         "rows": "1",
