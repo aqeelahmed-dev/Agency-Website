@@ -298,8 +298,8 @@
         "blog": "do-you-wish-to-learn",
         "rows": "1",
         "grid": "2",
-        "show_view_all": false,
-        "button_style": "btn-outline-primary"
+        "show_view_all": true,
+        "button_style": "btn--primary"
       }
     }
   },
