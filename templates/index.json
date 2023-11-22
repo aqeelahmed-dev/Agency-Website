@@ -227,62 +227,64 @@
         "customer_tag": "newsletter"
       }
     },
-    "97ee57de-863e-4eca-9cd1-24cdd143bcd4": {
-      "type": "featured-columns",
+    "d229dcaf-e0d4-4361-95e9-85662c6c821d": {
+      "type": "logo-list",
       "blocks": {
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-1": {
-          "type": "text_block",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-1": {
+          "type": "logo",
           "settings": {
             "title": "",
-            "image": "shopify:\/\/shop_images\/facebook-min.png",
-            "image_link": "",
-            "icon": "",
-            "heading_text": "Add a title or tagline",
-            "text": "<p>Use this text to describe what makes your store stand out from others and why customers should buy from you.<\/p>",
-            "button_style": "btn--primary",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/facebook-min_933052d2-22cb-410f-89ea-66b54df4758e.png",
+            "link": "",
+            "targe_blank": false
           }
         },
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-2": {
-          "type": "text_block",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-2": {
+          "type": "logo",
           "settings": {
             "title": "",
-            "image_link": "",
-            "icon": "",
-            "heading_text": "Add a title or tagline",
-            "text": "<p>Use this text to describe what makes your store stand out from others and why customers should buy from you.<\/p>",
-            "button_style": "btn--primary",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/youtube-min.png",
+            "link": "",
+            "targe_blank": false
           }
         },
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-3": {
-          "type": "text_block",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-3": {
+          "type": "logo",
           "settings": {
             "title": "",
-            "image_link": "",
-            "icon": "",
-            "heading_text": "Add a title or tagline",
-            "text": "<p>Use this text to describe what makes your store stand out from others and why customers should buy from you.<\/p>",
-            "button_style": "btn--primary",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/twitter-min.png",
+            "link": "",
+            "targe_blank": false
+          }
+        },
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-4": {
+          "type": "logo",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/instagram-min.png",
+            "link": "",
+            "targe_blank": false
           }
         }
       },
       "block_order": [
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-1",
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-2",
-        "template--21648909599023__97ee57de-863e-4eca-9cd1-24cdd143bcd4-text_block-3"
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-1",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-2",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-3",
+        "template--21648909599023__d229dcaf-e0d4-4361-95e9-85662c6c821d-logo-4"
       ],
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "REQUEST A PROPOSAL",
-        "subtitle": "",
+        "title": "REQUEST A PROPOSAL;",
         "section_style": "section-blank",
-        "text_align": "text-center"
+        "image_gray": false,
+        "image_height": 100,
+        "slider_logo_list": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
       }
     }
   },
@@ -295,6 +297,6 @@
     "50da4805-c4ec-4b48-a786-908f8af0edbb",
     "c5549717-1c2b-4a34-b5bf-40b27b089d33",
     "2abfa3b1-7867-4aff-8b29-3a84148e02be",
-    "97ee57de-863e-4eca-9cd1-24cdd143bcd4"
+    "d229dcaf-e0d4-4361-95e9-85662c6c821d"
   ]
 }
