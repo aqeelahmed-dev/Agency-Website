@@ -2,7 +2,10 @@
   "current": {
     "hero_header_desktop": false,
     "hero_header_mobile": false,
+    "icon": "material-icons-sharp",
     "collection_grid_button_size": "",
+    "newsletter_name": false,
+    "newsletter_optin": false,
     "section_height": "large",
     "section_height_mobile": "large",
     "page_wrapper": "1400",
