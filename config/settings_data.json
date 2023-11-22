@@ -34,6 +34,8 @@
     "color_overlay": "#a1e91e",
     "color_transparent_nav_text": "#212529",
     "header_family": "catamaran_n6",
+    "accent_family": "catamaran_n5",
+    "base_family": "catamaran_n4",
     "dbtfy_announcement_bar": false,
     "dbtfy_breadcrumbs": false,
     "dbtfy_cart_bubble": false,
