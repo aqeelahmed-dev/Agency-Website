@@ -294,7 +294,7 @@
         "show_on_mobile": true,
         "title": "BLOGs",
         "subtitle": "Powerful Resources",
-        "section_style": "section-default",
+        "section_style": "section-blank",
         "blog": "do-you-wish-to-learn",
         "rows": "1",
         "grid": "3",
