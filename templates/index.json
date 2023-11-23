@@ -292,9 +292,9 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "BLOG",
+        "title": "BLOGs",
         "subtitle": "Powerful Resources",
-        "section_style": "section-blank",
+        "section_style": "section-default",
         "blog": "do-you-wish-to-learn",
         "rows": "1",
         "grid": "3",
